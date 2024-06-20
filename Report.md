@@ -15,7 +15,8 @@ Alphabet Soup is a nonprofit foundation that is looking for our assistance in de
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
     * I selected 80 hidden notes for layer 1 and 30 hidden nodes for layer 2 because choosing a small number of neurons and an optimum number of layers would be the most efficient way to monitor the performance of the model. My choice for my activation fucktion was because I knew it would have controlled the performance of the model
 * Were you able to achieve the target model performance?
-    * I was not able to acheive the target model performance as I only got 73% as my model accuracy
+    * I was not able to acheive the target model performance as I only got 73.4% as my model accuracy
+    ![alt text](image.png)
 * What steps did you take in your attempts to increase model performance?
     * To increase my model's performance to 75%, I did not drop the 'NAME' column as I combine together in a new value, added another layer and selected other activation funcstions.
 
