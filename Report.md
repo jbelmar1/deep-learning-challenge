@@ -19,6 +19,9 @@ Alphabet Soup is a nonprofit foundation that is looking for our assistance in de
     ![alt text](image.png)
 * What steps did you take in your attempts to increase model performance?
     * To increase my model's performance to 75%, I did not drop the 'NAME' column as I combine together in a new value, added another layer and selected other activation funcstions.
+    ![alt text](image-1.png)
 
 ## Summary:
-One attempt was done to achieve a target predictive accuracy of 75%. The Decision Tree technique is another model that can be used to tackle this classification issue because it takes a supervised approach. Given that the input has already undergone pre-processing, the leaf nodes that represent the class label and attributes will be able to represent the boolean functions for the discrete attributes that we require once the model has been trained.
+One attempt was done to achieve a target predictive accuracy of 75%. 
+![alt text](image-2.png)
+The Decision Tree technique is another model that can be used to tackle this classification issue because it takes a supervised approach. Given that the input has already undergone pre-processing, the leaf nodes that represent the class label and attributes will be able to represent the boolean functions for the discrete attributes that we require once the model has been trained.
